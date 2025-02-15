@@ -3,7 +3,7 @@
 <div align="center">
 
   # 💫 About Me:
-  # 🔭 I’m currently working on Book-Online-Store<br>🌱 I’m currently learning FastAPI<br>💬 Ask me about Python<br>⚡ Fun fact I love backend so much that if I were a superhero, my name would be BackendMan
+  🔭 I’m currently working on Book-Online-Store<br>🌱 I’m currently learning FastAPI<br>💬 Ask me about Python<br>⚡ Fun fact I love backend so much that if I were a superhero, my name would be BackendMan
 
   # 💻 Tech Stack:
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
