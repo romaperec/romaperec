@@ -4,11 +4,11 @@
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
  # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=romaperec&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=romaperec&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=romaperec&theme=swift&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=romaperec&theme=swift&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=romaperec&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=romaperec&theme=swift&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=romaperec&icon=5&color=9)](https://visitcount.itsvg.in)
