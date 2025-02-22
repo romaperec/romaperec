@@ -7,10 +7,10 @@
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com?user=romaperec&locale=en&mode=daily&theme=apprentice&hide_border=true&border_radius=5&order=3)
 ![](https://github-readme-stats.vercel.app/api?username=romaperec&theme=apprentice&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://raw.githubusercontent.com/romaperec/romaperec/output/snake.svg)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=romaperec&theme=apprentice&no-frame=false&no-bg=true&margin-w=4)
-![](https://raw.githubusercontent.com/romaperec/romaperec/output/snake.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=romaperec&icon=5&color=9)](https://visitcount.itsvg.in)
