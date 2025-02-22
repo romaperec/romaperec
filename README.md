@@ -12,4 +12,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=romaperec&theme=apprentice&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=romaperec&icon=5&color=9)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=romaperec&icon=5&color=9)](https://visitcount.itsvg.in)
