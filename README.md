@@ -9,4 +9,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=romaperec&theme=apprentice&hide_border=true&include_all_commits=true&count_private=true" style="height: 215px;">
 
 ## 🥂 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=romaperec&theme=apprentice&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=romaperec&theme=oldie&no-frame=false&no-bg=true&margin-w=4)
