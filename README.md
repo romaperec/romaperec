@@ -6,6 +6,7 @@
 
 # 😶‍🌫️ GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=romaperec&show_icons=true&theme=apprentice)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Roman13-k&repo=online-store)](https://github.com/Roman13-k/online-store.git)
 
 ## 🥂 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=romaperec&theme=oldie&no-frame=false&no-bg=true&margin-w=4)
