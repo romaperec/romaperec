@@ -6,7 +6,6 @@
 
 # 😶‍🌫️ GitHub Stats:
 ![](https://streak-stats.demolab.com?user=romaperec&locale=en&mode=daily&theme=apprentice&hide_border=true&border_radius=5&order=3)
-![](https://github-readme-stats.vercel.app/api?username=romaperec&theme=apprentice&hide_border=true&include_all_commits=true&count_private=true)
 
 ## 🥂 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=romaperec&theme=oldie&no-frame=false&no-bg=true&margin-w=4)
