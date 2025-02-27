@@ -6,8 +6,7 @@
 
 # 😶‍🌫️ GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=romaperec&theme=merko&show_icons=true&hide_border=true&count_private=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=romaperec&theme=merko&show_icons=true&hide_border=true&layout=compact)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Roman13-k&repo=online-store&theme=merko)](https://github.com/Roman13-k/online-store.git)
 
 ## 🥂 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=romaperec&theme=oldie&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=romaperec&theme=merko&no-frame=false&no-bg=true&margin-w=4)
