@@ -9,4 +9,4 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Roman13-k&hide_border=true&repo=online-store&theme=dark)](https://github.com/Roman13-k/online-store.git)
 
 ## 🥂 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=romaperec&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=romaperec&theme=oldie&no-frame=false&no-bg=true&margin-w=4)
