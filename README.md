@@ -22,12 +22,12 @@
 
 ### 💻 Tech Stack  
 <div align="center">  
-  <img src="https://skillicons.dev/icons?i=python,fastapi,sqlite,postgres,linux,git,github,html,css,js,ts,vscode" />  
+  <img src="https://skillicons.dev/icons?i=python,fastapi,sqlite,postgres,linux,git,github,html,css,vscode" />  
 </div>  
 
 **Backend:** Python (FastAPI, SQLAlchemy)  
 **Databases:** SQLite, PostgreSQL  
-**Other:** Linux, Git, GitHub, HTML, CSS, JavaScript, TypeScript  
+**Other:** Linux, Git, GitHub, HTML, CSS, VSCode  
 
 ---
 
@@ -43,3 +43,5 @@
 
 ### 📫 Contact Me
 - **Telegram:** [@romaperec](https://t.me/romaperec)
+
+</div>
