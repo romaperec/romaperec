@@ -1,4 +1,4 @@
-# 🚀 <span align="center">
+<span align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Welcome+to+My+GitHub+Profile" alt="Typing SVG" />
 </span>
 
