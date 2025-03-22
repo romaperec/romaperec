@@ -20,9 +20,14 @@
 
 ---
 
-### 💻 Tech Stack
-- **Backend:** Python (FastAPI, SQLAlchemy)
-- **Databases:** SQLite, PostgreSQL
+### 💻 Tech Stack  
+<div align="center">  
+  <img src="https://skillicons.dev/icons?i=python,fastapi,sqlite,postgres,linux,git,github,html,css,js,ts,vscode" />  
+</div>  
+
+**Backend:** Python (FastAPI, SQLAlchemy)  
+**Databases:** SQLite, PostgreSQL  
+**Other:** Linux, Git, GitHub, HTML, CSS, JavaScript, TypeScript  
 
 ---
 
