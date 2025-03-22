@@ -2,17 +2,19 @@
 
 ---
 
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=romaperec&show_icons=true&theme=graywhite&hide_border=true)
+### 🏆 GitHub Achievements
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=romaperec&theme=graywhite&no-frame=true&column=6" alt="GitHub Trophies" />
+</div>
 
-<!-- GitHub Streak -->
-![GitHub Streak](https://streak-stats.demolab.com?user=romaperec&theme=graywhite&hide_border=true)
+---
 
-<!-- GitHub Trophies -->
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=romaperec&theme=graywhite&no-frame=true&column=6)
-
-<!-- Most Used Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romaperec&layout=compact&theme=graywhite&hide_border=true)
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=romaperec&show_icons=true&theme=graywhite&hide_border=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=romaperec&theme=graywhite&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romaperec&layout=compact&theme=graywhite&hide_border=true" alt="Most Used Languages" />
+</div>
 
 ---
 
