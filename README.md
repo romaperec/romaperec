@@ -26,23 +26,6 @@
 </div>  
 
 <div align="center">
-**Backend:** Python (FastAPI, SQLAlchemy)  
-**Databases:** SQLite, PostgreSQL  
-**Other:** Linux, Git, GitHub, HTML, CSS, VSCode  
-</div>
-
----
-
-### 🔥 About Me
-<div align="center">
-- 💡 Passionate about backend development and system architecture
-- 🚀 Constantly improving my skills and exploring new technologies
-- 🎯 Aiming to become a highly skilled backend developer
-- 🌍 Planning to work abroad in the future
-- 📖 Always learning and striving for excellence
-- 🏋️‍♂️ Enjoy fitness and self-discipline in all aspects of life
-</div>
-
 ---
 
 ### 📫 Contact Me
