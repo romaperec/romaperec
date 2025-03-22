@@ -13,7 +13,7 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=romaperec&show_icons=true&theme=dark&hide_border=true&icon_color=ffffff" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=romaperec&show_icons=true&theme=oldie&hide_border=true&icon_color=ffffff" alt="GitHub Stats" />
   <img height="150" src="https://streak-stats.demolab.com?user=romaperec&theme=dark&hide_border=true" alt="GitHub Streak" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romaperec&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
 </div>
