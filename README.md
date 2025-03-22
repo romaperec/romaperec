@@ -1,11 +1,36 @@
-# 💫 About Me:
-<br>⇸ I’m currently learning FastAPI<br>⇸ Ask me about Python<br>⇸ Fun fact I love backend so much that if I were a superhero, my name would be BackendMan
+### Hi there, I'm Roman Perec! 
 
-# ⚙️ Tech Stack:
-![Python](https://img.shields.io/badge/python-%232B2F33.svg?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-%232B2F33.svg?style=for-the-badge&logo=fastapi&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%232B2F33.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%232B2F33.svg?style=for-the-badge&logo=git&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%232B2F33.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+---
 
-# 😶‍🌫️ GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=romaperec&theme=dark&show_icons=true&hide_border=true&count_private=true)
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=romaperec&show_icons=true&theme=graywhite&hide_border=true)
 
-## 🥂 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=romaperec&theme=oldie&no-frame=false&no-bg=true&margin-w=4)
+<!-- GitHub Streak -->
+![GitHub Streak](https://streak-stats.demolab.com?user=romaperec&theme=graywhite&hide_border=true)
+
+<!-- GitHub Trophies -->
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=romaperec&theme=graywhite&no-frame=true&column=6)
+
+<!-- Most Used Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romaperec&layout=compact&theme=graywhite&hide_border=true)
+
+---
+
+### 💻 Tech Stack
+- **Backend:** Python (FastAPI, SQLAlchemy)
+- **Databases:** SQLite, PostgreSQL
+
+---
+
+### 🔥 About Me
+- 💡 Passionate about backend development and system architecture
+- 🚀 Constantly improving my skills and exploring new technologies
+- 🎯 Aiming to become a highly skilled backend developer
+- 🌍 Planning to work abroad in the future
+- 📖 Always learning and striving for excellence
+- 🏋️‍♂️ Enjoy fitness and self-discipline in all aspects of life
+
+---
+
+### 📫 Contact Me
+- **Telegram:** [@romaperec](https://t.me/romaperec)
