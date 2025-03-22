@@ -28,10 +28,3 @@
 <div align="center">
   
 ---
-
-### 📫 Contact Me
-<div align="center">
-- **Telegram:** [@romaperec](https://t.me/romaperec)
-</div>
-
-</div>
