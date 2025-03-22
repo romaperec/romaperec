@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1500&speed=10&color=FFFFFF&center=true&vCenter=true&width=800&lines=Welcome+to+My+GitHub+Profile" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1500&speed=10&color=FFFFFF&center=true&vCenter=true&width=800&lines=Backend+dev+with+frontend+ambitions" alt="Typing SVG" />
 
 ---
 
