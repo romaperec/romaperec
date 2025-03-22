@@ -4,14 +4,12 @@
 
 ---
 
-### 🏆 GitHub Achievements
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=romaperec&theme=oldie&no-frame=true&column=8&margin-w=10" alt="GitHub Trophies" />
 </div>
 
 ---
 
-### 📊 GitHub Stats
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=romaperec&show_icons=true&theme=graywhite&hide_border=true&icon_color=ffffff" alt="GitHub Stats" />
   <img height="150" src="https://streak-stats.demolab.com?user=romaperec&theme=graywhite&hide_border=true" alt="GitHub Streak" />
@@ -20,7 +18,6 @@
 
 ---
 
-### 💻 Tech Stack  
 <div align="center">  
   <img src="https://skillicons.dev/icons?i=python,fastapi,sqlite,postgres,linux,git,github,html,css,vscode" />  
 </div>  
