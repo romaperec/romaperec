@@ -6,7 +6,7 @@
 
 ### 🏆 GitHub Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=romaperec&theme=darkhub&no-frame=true&column=8&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=romaperec&theme=oldie&no-frame=true&column=8&margin-w=10" alt="GitHub Trophies" />
 </div>
 
 ---
