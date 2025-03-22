@@ -4,16 +4,16 @@
 
 ### 🏆 GitHub Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=romaperec&theme=onedark&no-frame=true&column=6&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=romaperec&theme=darkhub&no-frame=true&column=6&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 ---
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=romaperec&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="150" src="https://streak-stats.demolab.com?user=romaperec&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romaperec&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=romaperec&show_icons=true&theme=dark&hide_border=true&icon_color=ffffff" alt="GitHub Stats" />
+  <img height="150" src="https://streak-stats.demolab.com?user=romaperec&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romaperec&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
 </div>
 
 ---
