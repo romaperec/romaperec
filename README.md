@@ -10,7 +10,7 @@
 
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=romaperec&show_icons=true&theme=date_night&hide_border=true&icon_color=ffffff" alt="GitHub Stats" />
-  <img height="150" src="https://streak-stats.demolab.com/?user=romaperec&theme=git-dark" alt="GitHub Streak" />
+  <img height="150" src="https://streak-stats.demolab.com/?user=romaperec&theme=date-night" alt="GitHub Streak" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romaperec&layout=compact&theme=date_night&hide_border=true" alt="Most Used Languages" />
 </div>
 
