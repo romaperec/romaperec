@@ -9,8 +9,8 @@
 ---
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=romaperec&show_icons=true&theme=date_night&hide_border=true&icon_color=ffffff" alt="GitHub Stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romaperec&layout=compact&theme=date_night&hide_border=true" alt="Most Used Languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=romaperec&show_icons=true&theme=shadow_red&hide_border=true&icon_color=ffffff" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romaperec&layout=compact&theme=shadow_red&hide_border=true" alt="Most Used Languages" />
 </div>
 
 ---
