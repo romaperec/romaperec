@@ -16,7 +16,7 @@
 ---
 
 <div align="center">  
-  <img src="https://skillicons.dev/icons?i=python,fastapi,sqlite,postgres,linux,git,github,html,css,vscode" />  
+  <img src="https://skillicons.dev/icons?i=python,fastapi,sqlite,postgres,linux,git,github,html,css,vscode,postman" />  
 </div>  
 
 <div align="center">
