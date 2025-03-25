@@ -9,8 +9,8 @@
 ---
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=romaperec&show_icons=true&theme=shadow-red&hide_border=true&icon_color=ffffff" alt="GitHub Stats" />
-  <img height="150" src="https://streak-stats.demolab.com?user=romaperec&theme=shadow_red&hide_border=true" alt="GitHub Streak" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=romaperec&show_icons=true&theme=shadow_red&hide_border=true&icon_color=ffffff" alt="GitHub Stats" />
+  <img height="150" src="https://streak-stats.demolab.com?user=romaperec&theme=shadow-red&hide_border=true" alt="GitHub Streak" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romaperec&layout=compact&theme=shadow_red&hide_border=true" alt="Most Used Languages" />
 </div>
 
