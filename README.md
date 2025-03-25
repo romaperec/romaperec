@@ -3,14 +3,14 @@
 ---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=romaperec&theme=shadow_red&no-frame=true&column=8&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=romaperec&theme=kimbie_dark&no-frame=true&column=8&margin-w=10" alt="GitHub Trophies" />
 </div>
 
 ---
 
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=romaperec&show_icons=true&theme=shadow_red&hide_border=true&icon_color=ffffff" alt="GitHub Stats" />
-  <img height="150" src="https://streak-stats.demolab.com?user=romaperec&theme=shadow-red&hide_border=true" alt="GitHub Streak" />
+  <img height="150" src="https://streak-stats.demolab.com/?user=romaperec&theme=shadow-red" alt="GitHub Streak" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romaperec&layout=compact&theme=shadow_red&hide_border=true" alt="Most Used Languages" />
 </div>
 
