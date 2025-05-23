@@ -3,7 +3,7 @@
 ### Hi there!
 
 💻 My name is **romaperec**  
-🕶 Friendly Python lover with a soft spot for clean code 💻  
+🖤 Friendly Python lover with a soft spot for clean code   
 🐍 Building things with **Python**
 
 📬 Want to say hi? [Catch me on Telegram](https://t.me/romaperec ) ✨  
