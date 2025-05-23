@@ -1,9 +1,9 @@
 <img align="left" src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-dark.gif#gh-dark-mode-only" width="300" height="200">
 
-### Hey!
+### 🌟 Hi there!
 
-👨‍💻 I'm **romaperec**
+🧑‍💻 My name is **romaperec**  
+💡 Friendly Python lover with a soft spot for clean code 💻  
+🐍 Building things with **Python**
 
-🎀 *I am a very positive and kind python developer*
-
-📞 Contact with me - t.me/romaperec
+📬 Want to say hi? [Catch me on Telegram](https://t.me/romaperec ) ✨  
