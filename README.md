@@ -1,4 +1,4 @@
-<img align="left" src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-dark.gif#gh-dark-mode-only" width="240" height="240">
+<img align="left" src="https://media.tenor.com/k-PfH9O4EpcAAAAi/money-cash.gif" width="240" height="240">
 
 ### Hey!
 
