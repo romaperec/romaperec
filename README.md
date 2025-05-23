@@ -6,4 +6,4 @@
 🖤 Friendly Python lover with a soft spot for clean code   
 🔌 Building things with **Python**
 
-📬 Want to say hi? [Catch me on Telegram](https://t.me/romaperec ) ✨  
+📬 Want to say hi? [Catch me on Telegram](https://t.me/romaperec )   
