@@ -2,7 +2,7 @@
 
 ### 🌟 Hi there!
 
-🧑‍💻 My name is **romaperec**  
+💻 My name is **romaperec**  
 💡 Friendly Python lover with a soft spot for clean code 💻  
 🐍 Building things with **Python**
 
