@@ -1,6 +1,6 @@
 ### ~$ whoami
 
-**Roma**
+**romaperec**
 Python Backend Developer. Crafting clean and efficient solutions with **FastAPI**, **SQLAlchemy**, and **PostgreSQL**. A dedicated **Linux** & **Open Source** enthusiast.
 
 ---
