@@ -13,5 +13,5 @@ Python Backend Developer. Crafting clean and efficient solutions with **FastAPI*
 
 ### >_ lang_stats | chart
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romaperec&layout=compact&theme=catppuccin_macchiato)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romaperec&layout=compact&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
 
